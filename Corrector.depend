@@ -1,0 +1,64 @@
+# depslib dependency file v1.0
+1465109964 source:g:\facultad\analisisis y diseño de algoritmos i\corrector\main.cpp
+	<iostream>
+	<string>
+	<fstream>
+	<regex>
+	<Archivo.h>
+
+1465110016 g:\facultad\analisisis y diseño de algoritmos i\corrector\include\archivo.h
+	<Lista.h>
+	<fstream>
+
+1465049864 g:\facultad\analisisis y diseño de algoritmos i\corrector\include\lista.h
+	<cassert>
+	<iostream>
+
+1465410027 source:f:\facultad\analisisis y diseño de algoritmos i\corrector\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<Archivo.h>
+	<Diccionario.h>
+
+1465413840 f:\facultad\analisisis y diseño de algoritmos i\corrector\include\archivo.h
+	<Lista.h>
+	<fstream>
+
+1465416612 f:\facultad\analisisis y diseño de algoritmos i\corrector\include\lista.h
+	<cassert>
+	<iostream>
+
+1465416399 f:\facultad\analisisis y diseño de algoritmos i\corrector\include\diccionario.h
+	<Arbusq.h>
+	<Lista.h>
+	<string>
+
+1465407144 f:\facultad\analisisis y diseño de algoritmos i\corrector\include\arbusq.h
+	<Lista.h>
+	<iostream>
+
+1465410028 source:c:\users\fede\desktop\corrector\main.cpp
+	<iostream>
+	<fstream>
+	<regex>
+	<Archivo.h>
+	<Diccionario.h>
+
+1465413842 c:\users\fede\desktop\corrector\include\archivo.h
+	<Lista.h>
+	<fstream>
+
+1465416614 c:\users\fede\desktop\corrector\include\lista.h
+	<cassert>
+	<iostream>
+
+1465435208 c:\users\fede\desktop\corrector\include\diccionario.h
+	<Arbusq.h>
+	<Lista.h>
+	<string>
+
+1465434519 c:\users\fede\desktop\corrector\include\arbusq.h
+	<Lista.h>
+	<iostream>
+
